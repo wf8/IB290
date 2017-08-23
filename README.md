@@ -8,7 +8,7 @@
 * Fall, 2017
 * Wednesdays 5:15 - 6:45 PM
 * 1002 VLSB
-* Class website: [https://wf8.github.io/ib290/](https://wf8.github.io/ib290/)
+* Class website: [https://wf8.github.io/IB290/](https://wf8.github.io/IB290/)
 
 ## Instructors
 
@@ -26,7 +26,7 @@ There are no formal texts required for this seminar, but participants are encour
 
 ## Useful Info
 
-Here are some useful links on statistics and phylogenetic software: [https://wf8.github.io/ib290/useful](https://wf8.github.io/ib290/useful)
+Here are some useful links on statistics and phylogenetic software: [https://wf8.github.io/IB290/useful](https://wf8.github.io/IB290/useful)
 
 ## Schedule:
 
