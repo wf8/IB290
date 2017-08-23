@@ -1,79 +1,74 @@
-# Topics in Phylogenetics
+# IB290: Topics in Phylogenetics
+# UC Berkeley
 
-### Integrative Biology 290
-### Grad Seminar 460
-### Class Number 67082
-### UC Berkeley
-### Fall, 2017
-### Wednesday 5:15 - 6:45 PM
-### 1002 VLSB
+* Grad Seminar 460
+* Class Number 67082
+* Fall, 2017
+* Wednesdays 5:15 - 6:45 PM
+* 1002 VLSB
 
 ## Instructors
 
-* Carl Rothfels
-* John Huelsenbeck
-* Will Freyman
+* Carl Rothfels -- crothfels@berkeley.edu
+* John Huelsenbeck -- johnh@berkeley.edu
+* Will Freyman -- freyman@berkeley.edu
+
+## Format 
+
+The instructors will lead a series of introductory sessions (lectures) for the first four or five meetings. Subsequent meetings will be student-led. Each student will be responsible for leading at least one session (potentially more, depending on enrollment and interest) on a topic of their choice, in consultation with the instructors. That student will be responsible for developing an annotated bibliography of the important papers on the topic, including both “classics” and the most recent works, for selecting two or so of the papers for the class to read, and for preparing a short (15min) presentation on the topic. The remainder of the session will be devoted to discussion.
+
+## Course Texts 
+
+There are no formal texts required for this seminar, but participants are encouraged to consult *Tree Thinking: An Introduction to Phylogenetic Biology* (Baum & Smith 2012) and also *Inferring Phylogenies* (Felsenstein 2004).
 
 ## Useful Info
 
 Here are some useful links on statistics and phylogenetic software: [https://wf8.github.io/ib290/useful](https://wf8.github.io/ib290/useful)
 
-## Readings
+## Schedule
 
-### Detailed schedule timeline: [link](https://docs.google.com/spreadsheets/d/1zFW6yIMoHWa6_XHvesCLTyUDE3NuSoqb_ou80a9sA1g/edit#gid=0)
+Our first meeting will be on Wednesday, August 30.
 
-## Workshop Topics
+### August 30: Introductions
 
-Repository for slides: [https://github.com/revbayes/RevBayes-NIMBioS-Workshop/tree/master/slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/tree/master/slides)
+* Introductions (who are we, and want to do we each want to get out of this seminar)
+* Outline of the course
+* Outline of “phylogenetics” (introduction to trees—what is a phylogeny?—and tree thinking—what does this tree say?, [how to infer trees and what to do with them])
+* Discussion of topics to select for future class sessions
 
-### Monday, 7 August - Höhna & Hülsenbeck
+### September 6: Introduction to probability theory
 
-*Topics*
+Introduction to probability, estimation, and inference:
+* maximum likelihood
+* Bayesian estimation
 
-* Introduction/Overview
-* Probability, Bayesian Statistics, MCMC
-* Likelihood based phylogenetics [[slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/Huelsenbeck_Aug7_Likelihood_Phylo.pdf)]
-* Introduction to RevBayes [[slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/Hoehna_Aug7_RevBayes_Intro.pdf)]
+### September 13: Introduction to tree inference
 
-*Practical: Introduction to RevBayes*
+Introduction to the application of likelihood and Markov models to tree inference: 
+* substition models
+* MCMC
+* pruning algorithm
+* etc.
 
-* Tutorial PDF: [RB_MCMC_Intro_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Intro_Tutorial/RB_MCMC_Intro_Tutorial.pdf)
+### September 20: Introduction to birth-death processes
 
-*Practical: Models of Molecular Evolution*
+Introduction to the application of birth-death processes to estimate:
+* divergence times
+* diversification rates
+* character state dependent speciation and extinction
 
-* Tutorial PDF: [RB_CTMC_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_CTMC_Tutorial/RB_CTMC_Tutorial.pdf)
-* [Primates data](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/data/primates_and_galeopterus_cytb.nex)
-* [JC Rev script](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_JC.Rev)
-* [GTR+I+G Rev script](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_GTR_Gamma_Inv.Rev)
 
-### Tuesday, 8 August - Höhna, Hülsenbeck, & Freyman
+### September 27: Phylogenetics potpourri
 
-*Topics*
+Phylogenetics potpourri: 
+* alignment
+* homology
+* NJ/MP/ML/BI recap
+* bootstrapping
+* gene trees versus species tree
 
-* Partition Models and Model Selection [[slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/Hoehna_Aug8_Model_Selection.pdf)]
-* Model Fit [[slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/Hoehna_Aug8_Model_Fit.pdf)]
-* MCMC Diagnostics & Convergence
+###
 
-*Practical: Model Selection*
 
-* Tutorial PDF: [RB_BayesFactor_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_BayesFactor_Tutorial/RB_BayesFactor_Tutorial.pdf)
-* [Data file](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_BayesFactor_Tutorial/data/primates_and_galeopterus_cytb.nex)
-* [Rev script](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_BayesFactor_Tutorial/scripts/marginal_likelihood_JC.Rev)
 
-*Practical: Partition Models*
-
-* Tutorial PDF: [RB_Partition_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_Partition_Tutorial/RB_Partition_Tutorial.pdf)
-* [Data files](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_Partition_Tutorial/data)
-* [Rev scripts](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_Partition_Tutorial/scripts)
-
-*Practical: Model Fit*
-
-* Tutorial PDF: [RB_PosteriorPrediction_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_PosteriorPrediction_Tutorial/RB_PosteriorPrediction_Tutorial.pdf)
-* [Data files](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_PosteriorPrediction_Tutorial/data)
-* [Rev scripts](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_PosteriorPrediction_Tutorial/scripts)
-
-*Practical: MCMC & Convergence*
-
-* Tutorial PDF: [RB_MCMC_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Tutorial/RB_MCMC_Tutorial.pdf)
-* [Rev scripts](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_MCMC_Tutorial/scripts)
 
