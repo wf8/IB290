@@ -1,3 +1,5 @@
+<img src="http://willfreyman.org/assets/img/onag_big1.jpg" width="350" />
+
 # IB290: Topics in Phylogenetics
 # UC Berkeley
 
@@ -6,6 +8,7 @@
 * Fall, 2017
 * Wednesdays 5:15 - 6:45 PM
 * 1002 VLSB
+* Class website: [https://wf8.github.io/ib290/](https://wf8.github.io/ib290/)
 
 ## Instructors
 
@@ -25,13 +28,13 @@ There are no formal texts required for this seminar, but participants are encour
 
 Here are some useful links on statistics and phylogenetic software: [https://wf8.github.io/ib290/useful](https://wf8.github.io/ib290/useful)
 
-## Schedule
+## Schedule:
 
 Our first meeting will be on Wednesday, August 30.
 
 ### August 30: Introductions
 
-*Introductions (who are we, and want to do we each want to get out of this seminar):*
+*Who are we, and want to do we want to get out of this seminar?*
 * Outline of the course
 * Outline of “phylogenetics” (introduction to trees—what is a phylogeny?—and tree thinking—what does this tree say?, [how to infer trees and what to do with them])
 * Discussion of topics to select for future class sessions
@@ -41,12 +44,12 @@ Our first meeting will be on Wednesday, August 30.
 *Introduction to probability, estimation, and inference:*
 * maximum likelihood
 * Bayesian estimation
+* MCMC
 
 ### September 13: Introduction to tree inference and Markov models
 
-*Introduction to the application of likelihood and Markov models to tree inference:*
+*Introduction to the application of Markov models to tree inference:*
 * substition models
-* MCMC
 * pruning algorithm
 * etc.
 
@@ -67,7 +70,7 @@ Our first meeting will be on Wednesday, August 30.
 * bootstrapping
 * gene trees versus species tree
 
-### Student led discussions... TBD!
+### Future meetings: Student led discussions... TBD!
 
 
 
