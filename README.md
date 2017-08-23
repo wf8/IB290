@@ -70,7 +70,7 @@ Our first meeting will be on Wednesday, August 30.
 * bootstrapping
 * gene trees versus species tree
 
-### Future meetings: Student led discussions... TBD!
+### Future meetings: Student led discussions... TBD
 
 
 
