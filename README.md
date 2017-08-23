@@ -31,20 +31,20 @@ Our first meeting will be on Wednesday, August 30.
 
 ### August 30: Introductions
 
-* Introductions (who are we, and want to do we each want to get out of this seminar)
+*Introductions (who are we, and want to do we each want to get out of this seminar):*
 * Outline of the course
 * Outline of “phylogenetics” (introduction to trees—what is a phylogeny?—and tree thinking—what does this tree say?, [how to infer trees and what to do with them])
 * Discussion of topics to select for future class sessions
 
 ### September 6: Introduction to probability theory
 
-Introduction to probability, estimation, and inference:
+*Introduction to probability, estimation, and inference:*
 * maximum likelihood
 * Bayesian estimation
 
-### September 13: Introduction to tree inference
+### September 13: Introduction to tree inference and Markov models
 
-Introduction to the application of likelihood and Markov models to tree inference: 
+*Introduction to the application of likelihood and Markov models to tree inference:*
 * substition models
 * MCMC
 * pruning algorithm
@@ -52,7 +52,7 @@ Introduction to the application of likelihood and Markov models to tree inferenc
 
 ### September 20: Introduction to birth-death processes
 
-Introduction to the application of birth-death processes to estimate:
+*Introduction to the application of birth-death processes to estimate:*
 * divergence times
 * diversification rates
 * character state dependent speciation and extinction
@@ -60,14 +60,14 @@ Introduction to the application of birth-death processes to estimate:
 
 ### September 27: Phylogenetics potpourri
 
-Phylogenetics potpourri: 
+*Phylogenetics potpourri:* 
 * alignment
 * homology
 * NJ/MP/ML/BI recap
 * bootstrapping
 * gene trees versus species tree
 
-###
+### Student led discussions... TBD!
 
 
 
