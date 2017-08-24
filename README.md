@@ -58,13 +58,17 @@ Our first meeting will be on Wednesday, August 30.
 
 *Introduction to the application of birth-death processes to estimate:*
 * Tree shape, topology, branchlengths
-* Models of tree shape and branchlenghts:
-  **Yule process
-  **Birth-death process
-  **Coalescent process
+* Models of tree shape and branch lengths:
+  * Yule process
+  * Birth-death process
 * Applications of tree models:
-  **Divergence time estimaton
-  **Diversification rate estimation (... character state dependent speciation and extinction)
+  * Divergence time estimation
+    * Node calibrations
+    * Fossilized birth-death process
+  * Diversification rate estimation
+    * Constant rate
+    * Branch heterogenous
+    * Character dependent
 
 ### September 27: Phylogenetics potpourri -- recap and misc. stuff that we didn't cover yet
 
