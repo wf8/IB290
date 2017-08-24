@@ -57,7 +57,7 @@ Our first meeting will be on Wednesday, August 30.
 ### September 20: Introduction to "tree models" -- birth-death models and their use
 
 *Introduction to the application of birth-death processes to estimate:*
-* Tree shape, topology, branchlengths
+* Tree shape, topology, branch lengths
 * Models of tree shape and branch lengths:
   * Yule process
   * Birth-death process
