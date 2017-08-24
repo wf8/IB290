@@ -36,32 +36,37 @@ Our first meeting will be on Wednesday, August 30.
 
 *Who are we, and want to do we want to get out of this seminar?*
 * Outline of the course
-* Outline of “phylogenetics” (introduction to trees—what is a phylogeny?—and tree thinking—what does this tree say?, [how to infer trees and what to do with them])
+* Outline of “phylogenetics”, i.e., introduction to trees—what is a phylogeny?—and tree thinking—what does this tree say?
 * Discussion of topics to select for future class sessions
 
 ### September 6: Introduction to probability theory
 
 *Introduction to probability, estimation, and inference:*
-* maximum likelihood
+* Maximum likelihood
 * Bayesian estimation
 * MCMC
 
-### September 13: Introduction to tree inference and Markov models
+### September 13: Introduction to tree inference and Markov models of character change
 
 *Introduction to the application of Markov models to tree inference:*
-* substition models
-* pruning algorithm
-* etc.
+* What is a Markov model? 
+* Properties and uses of Markov models
+* Substition models
+* Tree inference (pruning algorithm?, etc.)
 
-### September 20: Introduction to birth-death processes
+### September 20: Introduction to "tree models" -- birth-death models and their use
 
 *Introduction to the application of birth-death processes to estimate:*
-* divergence times
-* diversification rates
-* character state dependent speciation and extinction
+* Tree shape, topology, branchlengths
+* Models of tree shape and branchlenghts:
+  **Yule process
+  **Birth-death process
+  **Coalescent process
+* Applications of tree models:
+  **Divergence time estimaton
+  **Diversification rate estimation (... character state dependent speciation and extinction)
 
-
-### September 27: Phylogenetics potpourri
+### September 27: Phylogenetics potpourri -- recap and misc. stuff that we didn't cover yet
 
 *Phylogenetics potpourri:* 
 * alignment
