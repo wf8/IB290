@@ -1,5 +1,19 @@
 # Useful Stuff
 
+## Markdown
+
+Markdown is useful for editing this website and others as well as writing reports.
+
+* [General Markdown Tutorial](https://guides.github.com/features/mastering-markdown/)  
+* [Markdown and R](http://rmarkdown.rstudio.com/)
+
+## Git
+
+Git is version control software. It is awesome for collaborating and keeping track of different versions of a project's files. Use it for your code and even your papers. [GitHub](https://github.com) is a web-based interface for Git.
+
+* [Git Website](https://git-scm.com/)  
+* [GitHub Tutorial](https://guides.github.com/activities/hello-world/)
+
 ## Statistics
 
 To perform statistical phylogenetic analyses it helps to understand the basic principles of statistical analysis and probability, especially Bayesian statistics. Here is a brief tutorial that conveys the basic ideas:
