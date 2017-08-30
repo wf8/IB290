@@ -38,6 +38,7 @@ Our first meeting will be on Wednesday, August 30.
 * Outline of the course
 * Outline of “phylogenetics”, i.e., introduction to trees—what is a phylogeny?—and tree thinking—what does this tree say?
 * Discussion of topics to select for future class sessions
+* FOR NEXT WEEK: Read chapters 1, 2, and 3 of Tree Thinking
 
 ### September 6: Introduction to probability theory
 
