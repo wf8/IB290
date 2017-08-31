@@ -28,6 +28,13 @@ There are no formal texts required for this seminar, but participants are encour
 
 Here are some useful links on statistics and phylogenetic software: [https://wf8.github.io/IB290/useful](https://wf8.github.io/IB290/useful)
 
+## Possible Topics for Student Led Discussions
+
+*Please consult an instructor before settling on a topic:*
+
+modeling migration/hybridization/introgression (phylogenetic networks); state-dependent diversification models; fossil data (e.g. fossilized-birth-death process/tip dating vs node calibrations); modeling gene duplication and loss; polymorphism-aware (PoMo) models; covarion/hidden state models; model testing (e.g. Bayes factors, AIC); model adequacy (e.g. posterior predictive tests); demographic inference (e.g., inferring population size changes through time); the multispecies coalescent, genetrees/species tree; the BAMM controversy; divergence time dating; inferring selection from sequence alignments; alignment inference (alignment-phylogeny co-inference?); community phylogenetics; spatial phylogenetics; inferring phylogenies from morphological data; heterogeneous models, e.g., non-stationary base frequencies; ancestral state reconstruction; phylogenomics (strengths, pitfalls?); inferring correlated evolution of traits; assessing support; hypothesis testing of relationships; reconstructing morphological evolution on a phylogeny; ABC approaches; hidden Markov models; mixture models; species delimitation; microbial community analysis; quartet-based methods (e.g. SVDquartets); etc; etc;
+
+
 ## Schedule:
 
 Our first meeting will be on Wednesday, August 30.
