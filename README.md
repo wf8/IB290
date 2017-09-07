@@ -53,6 +53,7 @@ Our first meeting will be on Wednesday, August 30.
 * Maximum likelihood
 * Bayesian estimation
 * MCMC
+* Reading: [Coin Tossing - Diaconis et al 2007](https://wf8.github.io/IB290/readings/2007_Diaconis.pdf)
 
 ### September 13: Introduction to tree inference and Markov models of character change
 
