@@ -55,22 +55,25 @@ Our first meeting will be on Wednesday, August 30.
 * MCMC
 * Reading: [Coin Tossing - Diaconis et al 2007](https://wf8.github.io/IB290/readings/2007_Diaconis.pdf)
 
-### September 13: Introduction to tree inference and Markov models of character change
+### September 13: Introduction to tree inference and Markov models of character change 
 
-*Introduction to the application of Markov models to tree inference:*
+*Introduction to the application of Markov models to tree inference (Part 1):*
 * What is a Markov model? 
 * Properties and uses of Markov models
+* Pruning algorithm
+
+### September 20: Introduction to tree inference and Markov models of character change
+
+*Introduction to the application of Markov models to tree inference (Part 2):*
+* More on Markov models 
 * Substition models
-* Tree inference (pruning algorithm?, etc.)
 
-### September 20: Introduction to "tree models" -- birth-death models and their use
+### September 27: Introduction to "tree models" and their uses
 
-*Introduction to the application of birth-death processes to estimate:*
-* Tree shape, topology, branch lengths
-* Models of tree shape and branch lengths:
-  * Yule process
-  * Birth-death process
-* Applications of tree models:
+*Introduction to models of tree shape, topology, and branch lengths:*
+* Uniform tree topologies
+* Coalescent trees
+* Birth-death processes and their application to:
   * Divergence time estimation
     * Node calibrations
     * Fossilized birth-death process
@@ -79,7 +82,7 @@ Our first meeting will be on Wednesday, August 30.
     * Branch heterogenous
     * Character dependent
 
-### September 27: Phylogenetics potpourri -- recap and misc. stuff that we didn't cover yet
+### October 4: Phylogenetics potpourri -- recap and misc. stuff that we didn't cover yet
 
 *Phylogenetics potpourri:* 
 * alignment
