@@ -45,7 +45,8 @@ Our first meeting will be on Wednesday, August 30.
 * Outline of the course
 * Outline of “phylogenetics”, i.e., introduction to trees—what is a phylogeny?—and tree thinking—what does this tree say?
 * Discussion of topics to select for future class sessions
-* FOR NEXT WEEK: Read chapters 1, 2, and 3 of Tree Thinking
+* Reading: chapters 1, 2, and 3 of Tree Thinking
+* Slides: [Rothfels Intro Slides](https://wf8.github.io/IB290/lecture_slides/Mtg01_intro.ppt)
 
 ### September 6: Introduction to probability theory
 
@@ -61,12 +62,14 @@ Our first meeting will be on Wednesday, August 30.
 * What is a Markov model? 
 * Properties and uses of Markov models
 * Pruning algorithm
+* Slides: [Huelsenbeck Likelihood Phylo Slides](https://wf8.github.io/IB290/lecture_slides/Huelsenbeck_Likelihood_Phylo.pdf)
 
 ### September 20: Introduction to tree inference and Markov models of character change
 
 *Introduction to the application of Markov models to tree inference (Part 2):*
 * More on Markov models 
 * Substition models
+* Slides: [Huelsenbeck Likelihood Phylo Slides](https://wf8.github.io/IB290/lecture_slides/Huelsenbeck_Likelihood_Phylo.pdf)
 
 ### September 27: Introduction to "tree models" and their uses
 
@@ -75,12 +78,7 @@ Our first meeting will be on Wednesday, August 30.
 * Coalescent trees
 * Birth-death processes and their application to:
   * Divergence time estimation
-    * Node calibrations
-    * Fossilized birth-death process
   * Diversification rate estimation
-    * Constant rate
-    * Branch heterogenous
-    * Character dependent
 
 ### October 4: Phylogenetics potpourri -- recap and misc. stuff that we didn't cover yet
 
