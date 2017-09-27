@@ -62,14 +62,14 @@ Our first meeting will be on Wednesday, August 30.
 * What is a Markov model? 
 * Properties and uses of Markov models
 * Pruning algorithm
-* Slides: [Huelsenbeck Likelihood Phylo Slides](https://wf8.github.io/IB290/lecture_slides/Huelsenbeck_Likelihood_Phylo.pdf)
+* Slides: [Huelsenbeck Likelihood Phylo Slides](https://wf8.github.io/IB290/lecture_slides/Mtg02_Huelsenbeck_Likelihood_Phylo.pdf)
 
 ### September 20: Introduction to tree inference and Markov models of character change
 
 *Introduction to the application of Markov models to tree inference (Part 2):*
 * More on Markov models 
 * Substition models
-* Slides: [Huelsenbeck Likelihood Phylo Slides](https://wf8.github.io/IB290/lecture_slides/Huelsenbeck_Likelihood_Phylo.pdf)
+* Slides: [Huelsenbeck Likelihood Phylo Slides](https://wf8.github.io/IB290/lecture_slides/Mtg03_Huelsenbeck_Likelihood_Phylo.pdf)
 
 ### September 27: Introduction to "tree models" and their uses
 
