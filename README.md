@@ -79,6 +79,7 @@ Our first meeting will be on Wednesday, August 30.
 * Birth-death processes and their application to:
   * Divergence time estimation
   * Diversification rate estimation
+* Slides: [Freyman Coalescent & Birth-Death Slides](https://wf8.github.io/IB290/lecture_slides/Mtg04_Freyman_Coalescent_Birth_Death_Trees.pdf)
 
 ### October 4: Phylogenetics potpourri -- recap and misc. stuff that we didn't cover yet
 
