@@ -90,7 +90,7 @@ Our first meeting will be on Wednesday, August 30.
 * gene trees versus species tree
 * Slides: [Rothfels Phylo Potpourri](https://wf8.github.io/IB290/lecture_slides/Mtg05_Carl_misc/Mtg05_misc.ppt)
 
-### October 4: Inferring hybridization, reticulation, and inosculation
+### October 11: Inferring hybridization, reticulation, and inosculation
 
 Prahlada Papper & Virginia Tartaglio
 
