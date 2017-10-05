@@ -94,9 +94,9 @@ Our first meeting will be on Wednesday, August 30.
 
 Prahlada Papper & Virginia Tartaglio
 
-* Pease, J.B., Haak, D.C., Hahn, M.W., & Moyle, L.C. 2016. Phylogenomics reveals three sources of adaptive variation during a rapid radiation. PLoS Biology, 14(2), e1002379.
-* Wen, D., Yu, Y., & Nakhleh, L. 2016. Bayesian inference of reticulate phylogenies under the multispecies network coalescent. PLoS genetics, 12(5), e1006006.
-* Blischak, P.D., Chifman, J., Wolfe, A.D., & Kubatko, L.S. 2017 [preprint]. HyDe: A Python package for genome-scale hybridization detection. bioRxiv preprint server, 188037.
+* [Pease, J.B., Haak, D.C., Hahn, M.W., & Moyle, L.C. 2016. Phylogenomics reveals three sources of adaptive variation during a rapid radiation. PLoS Biology, 14(2), e1002379.](https://wf8.github.io/IB290/readings/Pease_et_al_2016.pdf)
+* [Wen, D., Yu, Y., & Nakhleh, L. 2016. Bayesian inference of reticulate phylogenies under the multispecies network coalescent. PLoS Genetics, 12(5), e1006006.](https://wf8.github.io/IB290/readings/Wen_et_al_2016.pdf)
+* [Blischak, P.D., Chifman, J., Wolfe, A.D., & Kubatko, L.S. 2017 [preprint]. HyDe: A Python package for genome-scale hybridization detection. bioRxiv preprint server, 188037.](https://wf8.github.io/IB290/readings/Blischak_et_al_2017.pdf)
 
 ### Future meetings: Student led discussions... TBD
 
