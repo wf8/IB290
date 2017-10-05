@@ -85,10 +85,18 @@ Our first meeting will be on Wednesday, August 30.
 
 *Phylogenetics potpourri:* 
 * alignment
-* homology
-* NJ/MP/ML/BI recap
+* MCMC
 * bootstrapping
 * gene trees versus species tree
+* Slides: [Rothfels Phylo Potpourri](https://wf8.github.io/IB290/lecture_slides/Mtg05_Carl_misc/Mtg05_misc.ppt)
+
+### October 4: Inferring hybridization, reticulation, and inosculation
+
+Prahlada Papper & Virginia Tartaglio
+
+* Pease, J.B., Haak, D.C., Hahn, M.W., & Moyle, L.C. 2016. Phylogenomics reveals three sources of adaptive variation during a rapid radiation. PLoS Biology, 14(2), e1002379.
+* Wen, D., Yu, Y., & Nakhleh, L. 2016. Bayesian inference of reticulate phylogenies under the multispecies network coalescent. PLoS genetics, 12(5), e1006006.
+* Blischak, P.D., Chifman, J., Wolfe, A.D., & Kubatko, L.S. 2017 [preprint]. HyDe: A Python package for genome-scale hybridization detection. bioRxiv preprint server, 188037.
 
 ### Future meetings: Student led discussions... TBD
 
