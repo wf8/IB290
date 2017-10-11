@@ -100,11 +100,11 @@ Prahlada Papper & Virginia Tartaglio
 
 * Prahlada and Virginia's [annotated bibliography](https://wf8.github.io/IB290/bibliographies/reticulationAnnotatedBibliography_VM_PP.pdf)
 
-### October 18: Inference of correlated evolution of traits 
+### October 18: Inferring correlated evolution of traits 
 
 Emily King & Richelle Tanner
 
-### October 25: Fossilized Birth Death Process
+### October 25: The fossilized birth-death process
 
 Daniel Latorre
 
@@ -112,7 +112,7 @@ Daniel Latorre
 
 Joyce Chery & Will Iles 
 
-### November 8: Historical Biogeographic Models 
+### November 8: Historical biogeographic models 
 
 Jun Ying Lim and Isaac Marck
 
