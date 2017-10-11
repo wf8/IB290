@@ -98,6 +98,8 @@ Prahlada Papper & Virginia Tartaglio
 * [Wen, D., Yu, Y., & Nakhleh, L. 2016. Bayesian inference of reticulate phylogenies under the multispecies network coalescent. PLoS Genetics, 12(5), e1006006.](https://wf8.github.io/IB290/readings/Wen_et_al_2016.pdf)
 * [Blischak, P.D., Chifman, J., Wolfe, A.D., & Kubatko, L.S. 2017 [preprint]. HyDe: A Python package for genome-scale hybridization detection. bioRxiv preprint server, 188037.](https://wf8.github.io/IB290/readings/Blischak_et_al_2017.pdf)
 
+Prahlada and Virginia's [annotated bibliography] (https://wf8.github.io/IB290/bibliographies/reticulationAnnotatedBibliography_VM_PP.pdf)
+
 ### Future meetings: Student led discussions... TBD
 
 
