@@ -100,7 +100,36 @@ Prahlada Papper & Virginia Tartaglio
 
 * Prahlada and Virginia's [annotated bibliography](https://wf8.github.io/IB290/bibliographies/reticulationAnnotatedBibliography_VM_PP.pdf)
 
-### Future meetings: Student led discussions... TBD
+### October 18: Inference of correlated evolution of traits 
+
+Emily King & Richelle Tanner
+
+### October 25: Fossilized Birth Death Process
+
+Daniel Latorre
+
+### November 1: TBA
+
+Joyce Chery & Will Iles 
+
+### November 8: Historical Biogeographic Models 
+
+Jun Ying Lim and Isaac Marck
+
+### November 15: The Coalescent 
+
+Carrie and Gabriel
+
+### November 22: <span style="color:red">NO CLASS</span>
+
+### November 29: TBA
+
+Jesus and Mick
+
+### December 6: TBA
+
+Betsabe & Jenna
+
 
 
 
