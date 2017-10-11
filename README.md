@@ -100,7 +100,7 @@ Prahlada Papper & Virginia Tartaglio
 
 * Prahlada and Virginia's [annotated bibliography](https://wf8.github.io/IB290/bibliographies/reticulationAnnotatedBibliography_VM_PP.pdf)
 
-### October 18: Inferring correlated evolution of traits 
+### October 18: Inferring correlated trait evolution 
 
 Emily King & Richelle Tanner
 
