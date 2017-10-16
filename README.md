@@ -100,9 +100,14 @@ Prahlada Papper & Virginia Tartaglio
 
 * Prahlada and Virginia's [annotated bibliography](https://wf8.github.io/IB290/bibliographies/reticulationAnnotatedBibliography_VM_PP.pdf)
 
-### October 18: Inferring correlated trait evolution 
+### October 18: Inferring correlated continuous trait evolution 
 
 Emily King & Richelle Tanner
+
+* [Khabbazian, M., Kriebel, R., Rohe, K., & Ané, C. (2016). Fast and accurate detection of evolutionary shifts in Ornstein–Uhlenbeck models. Methods in Ecology and Evolution, 7(7), 811-824.](https://wf8.github.io/IB290/readings/Khabbazian_et_al_2016.pdf)
+* [Huey, R. B., & Bennett, A. F. (1987). Phylogenetic studies of coadaptation: preferred temperatures versus optimal performance temperatures of lizards. Evolution, 41(5), 1098-1115.](https://wf8.github.io/IB290/readings/Huey_and_Bennett_1987.pdf)
+
+* Emily and Richelle's [annotated bibliography](https://wf8.github.io/IB290/bibliographies/IB290-ContinuousTraitEvolution.pdf)
 
 ### October 25: The fossilized birth-death process
 
