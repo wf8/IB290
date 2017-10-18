@@ -113,6 +113,8 @@ Emily King & Richelle Tanner
 
 Daniel Latorre
 
+* [Heath, T.A., Huelsenbeck, J.P. & Stadler, T. (2014). The fossilized birth-death process for coherent calibration of divergence time estimates. PNAS](https://github.com/wf8/IB290/blob/master/readings/Heath_et_al_2014_PNAS_-_Fossilized_birth_death_process_for_calibration_of_divergence-time.pdf)
+
 ### November 1: TBA
 
 Joyce Chery & Will Iles 
