@@ -116,6 +116,8 @@ Daniel Latorre
 * [Heath, T.A., Huelsenbeck, J.P. & Stadler, T. (2014). The fossilized birth-death process for coherent calibration of divergence time estimates. PNAS](https://github.com/wf8/IB290/blob/master/readings/Heath_et_al_2014_PNAS_-_Fossilized_birth_death_process_for_calibration_of_divergence-time.pdf)
 * [Law, J.C., Slater, G.J., Mehta, R.S. (2017). Lineage Diversity and Size Disparity in Musteloidea: Testing Patterns of Adaptive Radiation Using Molecular and Fossil-Based Methods. Syst. Biol.](https://github.com/wf8/IB290/blob/master/readings/Law_et_al_2017_Musteloidea_Phylogeny_SystBiol.pdf)
 
+* [annotated bibliography](https://wf8.github.io/IB290/bibliographies/Fossilized_Birth-Death_Annotated_Bibliography.pdf)
+
 ### November 1: TBA
 
 Joyce Chery & Will Iles 
