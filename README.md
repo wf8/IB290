@@ -118,9 +118,11 @@ Daniel Latorre
 
 * [annotated bibliography](https://wf8.github.io/IB290/bibliographies/Fossilized_Birth-Death_Annotated_Bibliography.pdf)
 
-### November 1: TBA
+### November 1: Evolution under the threshold model
 
 Joyce Chery & Will Iles 
+
+* [Revell, L. J. (2014). Ancestral character estimation under the threshold model from quantitative genetics. Evolution, 68(3), 743-759.](https://github.com/wf8/IB290/blob/master/readings/Revell-2014-Evolution.pdf)
 
 ### November 8: Historical biogeographic models 
 
