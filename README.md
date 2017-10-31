@@ -124,6 +124,8 @@ Joyce Chery & Will Iles
 
 * [Revell, L. J. (2014). Ancestral character estimation under the threshold model from quantitative genetics. Evolution, 68(3), 743-759.](https://github.com/wf8/IB290/blob/master/readings/Revell-2014-Evolution.pdf)
 
+* [annotated bibliography](https://wf8.github.io/IB290/bibliographies/Threshold_model_literature.pdf)
+
 ### November 8: Historical biogeographic models 
 
 Jun Ying Lim and Isaac Marck
