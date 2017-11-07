@@ -132,7 +132,7 @@ Jun Ying Lim and Isaac Marck
 
 * [Matzke, N. J. 2014. Model selection in historical biogeography reveals that founder-event speciation is a crucial process in island clades. Systematic Biology, 63(6), 951-970.](https://wf8.github.io/IB290/bibliographies/Matzke_2014.pdf)
 
-* [annotated bibliography](https://wf8.github.io/IB290/bibliographies/IB%20Topics%20in%20Phylogenetics%20-%20Historical%20Biogeography%20Models.pdf.pdf)
+* [annotated bibliography](https://wf8.github.io/IB290/bibliographies/Historical_Biogeography_Models.pdf)
 
 ### November 15: The Coalescent 
 
