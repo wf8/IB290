@@ -130,23 +130,26 @@ Joyce Chery & Will Iles
 
 Jun Ying Lim and Isaac Marck
 
-* [Matzke, N. J. 2014. Model selection in historical biogeography reveals that founder-event speciation is a crucial process in island clades. Systematic Biology, 63(6), 951-970.](https://wf8.github.io/IB290/bibliographies/Matzke_2014.pdf)
+* [Matzke, N. J. 2014. Model selection in historical biogeography reveals that founder-event speciation is a crucial process in island clades. Systematic Biology, 63(6), 951-970.](https://wf8.github.io/IB290/readings/Matzke_2014.pdf)
 
 * [annotated bibliography](https://wf8.github.io/IB290/bibliographies/Historical_Biogeography_Models.pdf)
 
 ### November 15: The Coalescent 
 
-Carrie and Gabriel
+Carrie Tribble and Gabriel Damasco
+
+* [Liu, L., Yu, L., Kubatko, L., Pearl, D. K., & Edwards, S. V. 2009. Coalescent methods for estimating phylogenetic trees. Molecular Phylogenetics and Evolution, 53(1), 320-328.](https://wf8.github.io/IB290/readings/Liu_et_al_2009.pdf)
+* [Yang, Z. 2015. The BPP program for species tree estimation and species delimitation. Current Zoology, 61(5), 854-865.](https://wf8.github.io/IB290/readings/Yang_2015.pdf)
 
 ### November 22: <span style="color:red">NO CLASS</span>
 
-### November 29: TBA
+### November 29: State-dependent speciation and extinction models
 
-Jesus and Mick
+Jesus Martinez-Gomez and Mick Song
 
 ### December 6: TBA
 
-Betsabe & Jenna
+Betsabe Castro Escobar and Jenna Baughman
 
 
 
