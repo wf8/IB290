@@ -139,7 +139,9 @@ Jun Ying Lim and Isaac Marck
 Carrie Tribble and Gabriel Damasco
 
 * [Liu, L., Yu, L., Kubatko, L., Pearl, D. K., & Edwards, S. V. 2009. Coalescent methods for estimating phylogenetic trees. Molecular Phylogenetics and Evolution, 53(1), 320-328.](https://wf8.github.io/IB290/readings/Liu_et_al_2009.pdf)
+
 * [Yang, Z. 2015. The BPP program for species tree estimation and species delimitation. Current Zoology, 61(5), 854-865.](https://wf8.github.io/IB290/readings/Yang_2015.pdf)
+
 * [annotated bibliography](https://wf8.github.io/IB290/bibliographies/coalescent_annotated_bib.pdf)
 
 ### November 22: <span style="color:red">NO CLASS</span>
