@@ -150,6 +150,12 @@ Carrie Tribble and Gabriel Damasco
 
 Jesus Martinez-Gomez and Mick Song
 
+* [O’Meara, B. C., & Beaulieu, J. M. (2016). Past, future, and present of state-dependent models of diversification. American journal of botany, 103(5), 792-795.](https://wf8.github.io/ib290/readings/OMeara_Beaulieu_2016.pdf)
+
+* [Rabosky, D. L., & Goldberg, E. E. (2015). Model inadequacy and mistaken inferences of trait-dependent speciation. Systematic Biology, 64(2), 340-355.](https://wf8.github.io/ib290/readings/Rabosky_Goldberg_2015.pdf)
+
+* [Maddison, W. P., Midford, P. E., & Otto, S. P. (2007). Estimating a binary character's effect on speciation and extinction. Systematic biology, 56(5), 701-710.](https://wf8.github.io/ib290/readings/Maddison_et_al_2007.pdf)
+
 ### December 6: TBA
 
 Betsabe Castro Escobar and Jenna Baughman
