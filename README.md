@@ -156,6 +156,8 @@ Jesus Martinez-Gomez and Mick Song
 
 * [Maddison, W. P., Midford, P. E., & Otto, S. P. (2007). Estimating a binary character's effect on speciation and extinction. Systematic biology, 56(5), 701-710.](https://wf8.github.io/IB290/readings/Maddison_et_al_2007.pdf)
 
+* [annotated bibliography](https://wf8.github.io/IB290/bibliographies/SSE_Annotated_Bibliography.pdf)
+
 ### December 6: TBA
 
 Betsabe Castro Escobar and Jenna Baughman
