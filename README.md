@@ -163,6 +163,10 @@ Jesus Martinez-Gomez and Mick Song
 Betsabe Castro Escobar and Jenna Baughman
 
 
+* [Yang, Z., & Nielsen, R. (2002). Codon-substitution models for detecting molecular adaptation at individual sites along specific lineages. Molecular biology and evolution, 19(6), 908-917.](https://wf8.github.io/IB290/readings/Yang_Nielsen_2002.pdf)
 
+* [Pond, S. L. K., Frost, S. D., Grossman, Z., Gravenor, M. B., Richman, D. D., & Brown, A. J. L. (2006). Adaptation to different human populations by HIV-1 revealed by codon-based analyses. PLoS computational biology, 2(6), e62.](https://wf8.github.io/IB290/readings/kosakovsky_2006.pdf)
 
+* [Wilson, D. J., Hernandez, R. D., Andolfatto, P., & Przeworski, M. (2011). A population genetics-phylogenetics approach to inferring natural selection in coding sequences. PLoS genetics, 7(12), e1002395.](https://wf8.github.io/IB290/readings/Wilson_et_al_2011.pdf)
 
+* [annotated bibliography](https://wf8.github.io/IB290/bibliographies/JB_InferingSelection_AnnotatedBib.pdf)
