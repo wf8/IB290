@@ -158,7 +158,7 @@ Jesus Martinez-Gomez and Mick Song
 
 * [annotated bibliography](https://wf8.github.io/IB290/bibliographies/SSE_Annotated_Bibliography.pdf)
 
-### December 6: TBA
+### December 6: Inferring selection
 
 Betsabe Castro Escobar and Jenna Baughman
 
